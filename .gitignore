@@ -3,3 +3,17 @@
 ################################################################################
 
 /.vs
+/RentMeBook/.vs/RentMeBook
+/RentMeBook/bin
+/RentMeBook/obj/Debug
+/RentMeBook/packages
+/RentMeBook.BAL/obj/Debug
+/RentMeBook.BAL/bin/Debug
+/RentMeBook.DAL/obj/Debug
+/RentMeBook.DAL/bin/Debug
+/RentMeBook.EAL/obj/Debug
+/RentMeBook.EAL/bin/Debug
+/RentMeBookBAL.Factory/obj/Debug
+/RentMeBookBAL.Factory/bin/Debug
+/RentMeBookDAL.Factory/obj/Debug
+/RentMeBookDAL.Factory/bin/Debug
